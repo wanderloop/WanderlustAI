@@ -108,12 +108,15 @@ timeLis=[]
 dateLis=[]
 
 for i in range(1,len(content)):
- ID,long,lat,time,date=string_ParseTo_Float(content[i]) 
- IDLis.append(ID)
- longLis.append(long)
- latLis.append(lat)
- timeLis.append(time)
- dateLis.append(date)
+ try:
+  ID,long,lat,time,date=string_ParseTo_Float(content[i]) 
+  IDLis.append(ID)
+  longLis.append(long)
+  latLis.append(lat)
+  timeLis.append(time)
+  dateLis.append(date)
+ else:
+    continue
 
 
 
