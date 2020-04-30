@@ -115,7 +115,7 @@ for i in range(1,len(content)):
   latLis.append(lat)
   timeLis.append(time)
   dateLis.append(date)
- else:
+ except:
     continue
 
 
