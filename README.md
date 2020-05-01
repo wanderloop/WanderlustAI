@@ -1,8 +1,8 @@
 # WanderlustAI
 
-In the name of God ,the beneficiant and merciful.
+In the name of God, the beneficent and merciful.
 
-Wanderlust is a set of programs that will help from analyzing and tracking individuals who came in contact with covid19 infected patients by looking at their past travel history to providing Social Distance alerts. It provides a solution for societies where people are less educated and less tech-oriented.Wanderlust uses WhatsApp based and a camera/CCTV based solution for location tracking of individuals.it makes sure that exact and right numbers are predicted so that people could be guided at the right time to quarantine themselves to curb the further spread of disease.
+Wanderlust is a set of programs that will help from analyzing and tracking individuals who came in contact with covid19 infected patients by looking at their past travel history to providing Social Distance alerts. It provides a solution for societies where people are less educated and less tech-oriented. Wanderlust uses WhatsApp based and a camera/CCTV based solution for location tracking of individuals.it makes sure that exact and right numbers are predicted so that people could be guided at the right time to quarantine themselves to curb the further spread of disease.
 To learn more about Wanderlust see document.pdf 
 
 #letsfightCovid19Together
@@ -14,7 +14,7 @@ pulse13579@gmail.com
 About Build:
 -------------
 
-All the codes have been built on Linux (Ubuntu 18.04 64-bit) using python3.6(Major) and C(Minor).In order to run any of the code kindly make sure you have python 3.5 or above .The codes could also run on windows8 or above and on MacOs.But they havent been tested on windows or mac.if you are windows or a mac user facing problems in execution or anything feel free to email us.We will love to help ya!
+All the codes have been built on Linux (Ubuntu 18.04 64-bit) using python3.6(Major) and C(Minor).To run any of the code kindly make sure you have python 3.5 or above. The codes could also run on windows8 or above and MacOs.But they haven't been tested on windows or mac.if you are windows or a mac user-facing problems in execution or anything feel free to email us. We will love to help ya!
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ Dependencies:
 * pyautogui for linux
 * mysql.connector for python
 * mysql workbench for linux
-* Chrome driver (For linux-64 bit) We have used 80.0 ,you can adjust depending on the chrome version that is avalible on your machiene.But u have to make changes inside code (Whatsapp_automation.py)
+* Chrome driver (For Linux-64 bit) We have used 80.0, you can adjust depending on the chrome version that is available on your machine.But u have to make changes inside code (Whatsapp_automation.py)
 * Chrome 80.0
 * numpy for python
 * scikit-learn 0.22.2 
