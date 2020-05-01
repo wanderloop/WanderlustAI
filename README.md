@@ -13,9 +13,11 @@ pulse13579@gmail.com
 #About Build:
 
 All the codes have been built on Linux (Ubuntu 18.04 64-bit) using python3.6(Major) and C(Minor).In order to run any of the code kindly make sure you have python 3.5 or above .The codes could also run on windows8 or above and on MacOs.But they havent been tested on windows or mac.if you are windows or a mac user facing problems in execution or anything feel free to email us.We will love to help ya!
+
 -----------------------------------------------------------------------------------------------------------------------------
 
-#System Requirements:
+System Requirements:
+----------------------------------
 
 -2.8 GHz Dual Core Processor (64-bit) or above
 
@@ -29,6 +31,7 @@ All the codes have been built on Linux (Ubuntu 18.04 64-bit) using python3.6(Maj
 #----------------------------------------------------------------------------------------------------------------------------
 
 #Dependencies:
+--------------------------------
 
 -Python3.5+ (3.6 Prefered)
 
@@ -54,4 +57,5 @@ All the codes have been built on Linux (Ubuntu 18.04 64-bit) using python3.6(Maj
 
 ----------------------------------------------------------------------------------------------------------------------------
 Team W@nderloop 2020
+---------
 
