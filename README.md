@@ -20,16 +20,13 @@ All the codes have been built on Linux (Ubuntu 18.04 64-bit) using python3.6(Maj
 System Requirements:
 ----------------------------------
 
--2.8 GHz Dual Core Processor (64-bit) or above
+* 2.8 GHz Dual Core Processor (64-bit) or above
+* Having dedicated GPU is a plus otherwise intel 4000 will do!
+* 8 GB RAM
+* 50GB FREE HARDDISK(preffered)
+* Ubuntu 18.04 or above (preffered)
 
--Having dedicated GPU is a plus otherwise intel 4000 will do!
-
--8 GB RAM
--50GB FREE HARDDISK(preffered)
-
--Ubuntu 18.04 or above (preffered)
-
-#----------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 Dependencies:
 --------------------------------
@@ -38,20 +35,13 @@ Dependencies:
 * Selenium for Python
 * pyautogui for linux
 * mysql.connector for python
-
--mysql workbench for linux
-
--Chrome driver (For linux-64 bit) We have used 80.0 ,you can adjust depending on the chrome version that is avalible on your machiene.But u have to make changes inside code (Whatsapp_automation.py)
-
--Chrome 80.0
-
--numpy for python
-
--scikit-learn 0.22.2 
-
--opencv for python (latest)
-
--jupyter
+* mysql workbench for linux
+* Chrome driver (For linux-64 bit) We have used 80.0 ,you can adjust depending on the chrome version that is avalible on your machiene.But u have to make changes inside code (Whatsapp_automation.py)
+* Chrome 80.0
+* numpy for python
+* scikit-learn 0.22.2 
+* opencv for python (latest)
+* jupyter
 
 ----------------------------------------------------------------------------------------------------------------------------
 Team W@nderloop 2020
