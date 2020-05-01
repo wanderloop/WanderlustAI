@@ -45,6 +45,7 @@ Dependencies:
 * jupyter
 
 Check wiki section of this repo for more details
+
 ----------------------------------------------------------------------------------------------------------------------------
 Team W@nderloop 2020
 ---------
