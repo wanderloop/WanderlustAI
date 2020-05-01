@@ -10,7 +10,8 @@ Below shows the lists of the necessary requirements to run all necessary codes.H
 
 pulse13579@gmail.com
 
-#About Build:
+About Build:
+-------------
 
 All the codes have been built on Linux (Ubuntu 18.04 64-bit) using python3.6(Major) and C(Minor).In order to run any of the code kindly make sure you have python 3.5 or above .The codes could also run on windows8 or above and on MacOs.But they havent been tested on windows or mac.if you are windows or a mac user facing problems in execution or anything feel free to email us.We will love to help ya!
 
@@ -30,16 +31,13 @@ System Requirements:
 
 #----------------------------------------------------------------------------------------------------------------------------
 
-#Dependencies:
+Dependencies:
 --------------------------------
 
--Python3.5+ (3.6 Prefered)
-
--Selenium for Python
-
--pyautogui for linux
-
--mysql.connector for python
+* Python3.5+ (3.6 Prefered)
+* Selenium for Python
+* pyautogui for linux
+* mysql.connector for python
 
 -mysql workbench for linux
 
