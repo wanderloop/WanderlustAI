@@ -45,7 +45,9 @@ Dependencies:
 * jupyter
 
 Check wiki section of this repo for more details
+
 for pitch video presentation log on to https://www.youtube.com/watch?v=aghDQYPCeBA&feature=youtu.be
+
 ----------------------------------------------------------------------------------------------------------------------------
 Team W@nderloop 2020
 ---------
