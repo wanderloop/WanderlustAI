@@ -14,7 +14,7 @@ pulse13579@gmail.com
 About Build:
 -------------
 
-All the codes have been built on Linux (Ubuntu 18.04 64-bit) using python3.6(Major) and C(Minor).To run any of the code kindly make sure you have python 3.5 or above. The codes could also run on windows8 or above and MacOs.But they haven't been tested on windows or mac.if you are windows or a mac user-facing problems in execution or anything feel free to email us. We will love to help ya!
+All the codes have been built on Linux (Ubuntu 18.04 64-bit) using python3.6(Major) and C(Minor).To run any of the code kindly make sure you have python 3.5 or above. The codes could also run on Windows 8 or above and MacOs.But they haven't been tested on windows or mac.if you are windows or a mac user-facing problems in execution or anything feel free to email us. We will love to help ya!
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ Dependencies:
 * jupyter
 
 The current software Architecture is shown below, Some parts are still under development. To learn more about 
-the modules and how to implement them turn to wiki of this repo.
+the modules and how to implement them turn to **wiki** of this repo.
 
 
 ![arch](https://github.com/wanderloop/WanderlustAI/blob/master/pinta.jpg)
