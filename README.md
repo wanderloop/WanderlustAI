@@ -44,7 +44,12 @@ Dependencies:
 * opencv for python (latest)
 * jupyter
 
-Check wiki section of this repo for more details
+The current software Architecture is shown below, Some parts are still under development. To learn more about 
+the modules and how to implement them turn to wiki of this repo.
+
+
+![arch](https://github.com/wanderloop/WanderlustAI/blob/master/pinta.jpg)
+
 
 for pitch video presentation log on to https://www.youtube.com/watch?v=aghDQYPCeBA&feature=youtu.be
 
