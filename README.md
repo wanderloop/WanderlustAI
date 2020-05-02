@@ -24,8 +24,8 @@ System Requirements:
 * 2.8 GHz Dual Core Processor (64-bit) or above
 * Having dedicated GPU is a plus otherwise intel 4000 will do!
 * 8 GB RAM
-* 50GB FREE HARDDISK(preffered)
-* Ubuntu 18.04 or above (preffered)
+* 50GB FREE HARDDISK(prefered)
+* Ubuntu 18.04 or above (prefered)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ Dependencies:
 * jupyter
 
 Check wiki section of this repo for more details
-
+for pitch video presentation log on to https://www.youtube.com/watch?v=aghDQYPCeBA&feature=youtu.be
 ----------------------------------------------------------------------------------------------------------------------------
 Team W@nderloop 2020
 ---------
