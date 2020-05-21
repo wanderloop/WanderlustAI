@@ -39,7 +39,7 @@ Dependencies:
 * pyautogui for Linux
 * mysql.connector for python
 * MySQL workbench for linux
-* Chrome driver (For Linux-64 bit) We have used 80.0, you can adjust depending on the Chrome version that is available on your machine. But u have to make changes inside Whatsapp_automation.py code. To check your Chrome version, simply type chrome://version/ in your Chrome address bar.
+* Chrome driver (For Linux-64 bit) We have used 80.0, you can adjust depending on the Chrome version that is available on your machine. But u have to make changes inside Whatsapp_automation.py code. To check your Chrome version, simply type chrome://version/ in your Chrome address bar. To download another version of ChromeDriver, click here: https://chromedriver.chromium.org/downloads
 * Chrome 80.0
 * NumPy for python
 * scikit-learn 0.22.2 
