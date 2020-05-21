@@ -1,5 +1,7 @@
 # WanderlustAI
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/wanderloop/wanderlustai)
+
 In the name of God, the beneficent and merciful.
 
 Wanderlust is a set of programs that will help from analyzing and tracking individuals who came in contact with covid19 infected patients by looking at their past travel history to providing Social Distance alerts. It provides a solution for societies where people are less educated and less tech-oriented. Wanderlust uses WhatsApp based and a camera/CCTV based solution for location tracking of individuals.it makes sure that exact and right numbers are predicted so that people could be guided at the right time to quarantine themselves to curb the further spread of disease.
