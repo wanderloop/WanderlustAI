@@ -26,7 +26,7 @@ System Requirements:
 * 2.8 GHz Dual Core Processor (64-bit) or above
 * Having dedicated GPU is a plus otherwise Intel 4000 will do!
 * 8 GB RAM
-* 50GB free hard disk space (preffered)
+* 50GB free hard disk space (preferred)
 * Ubuntu 18.04 or above (preferred)
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -34,16 +34,16 @@ System Requirements:
 Dependencies:
 --------------------------------
 
-* Python3.5+ (3.6 Preferred)
+* Python 3.6
 * Selenium for Python
 * pyautogui for Linux
 * mysql.connector for Python
 * MySQL Workbench for Linux
-* Chrome driver (For Linux-64 bit) We have used 80.0, you can adjust depending on the Chrome version that is available on your machine. But u have to make changes inside Whatsapp_automation.py code. To check your Chrome version, simply type chrome://version/ in your Chrome address bar. To download another version of ChromeDriver, click here: https://chromedriver.chromium.org/downloads
-* Chrome 80.0
-* NumPy for python
-* scikit-learn 0.22.2 
-* OpenCV for Python (4.x)
+* Chrome driver (For Linux-64 bit) We have used 80.0, you can adjust depending on the Chrome version that is available on your machine. But you have to make changes inside Whatsapp_automation.py code. To check your Chrome version, simply type chrome://version/ in your Chrome address bar. To download another version of ChromeDriver, click here: https://chromedriver.chromium.org/downloads
+* Google Chrome 80.0
+* NumPy 1.18.4
+* scikit-learn 0.22.2.post1 
+* OpenCV 4.1.2
 * Jupyter
 
 The current software architecture is shown below. Some parts are still under development. To learn more about 
