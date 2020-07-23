@@ -3,7 +3,7 @@ pandas==1.0.5
 matplotlib==3.2.2
 sklearn==0.22.2.post1
 xgboost==0.90
-cv2==4.1.2.30
+opencv-python==4.1.2.30
 plotly==4.4.1
-re==2019.12.20
+regex==2019.12.20
 pandas_profiling==2.8.0
