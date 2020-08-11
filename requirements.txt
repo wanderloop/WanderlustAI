@@ -7,4 +7,5 @@ opencv-python==4.1.2.30
 plotly==4.4.1
 regex==2019.12.20
 pandas_profiling==2.8.0
+joblib==0.16.0
 ipython==5.5.0
