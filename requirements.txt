@@ -10,6 +10,7 @@ xgboost==0.90
 opencv-python==4.1.2.30
 plotly==4.4.1
 researchpy==0.2.3
+Flask==1.1.2
 flask-ngrok==0.0.25
 regex==2019.12.20
 pandas_profiling==2.8.0
