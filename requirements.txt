@@ -4,6 +4,7 @@ scipy==1.4.1
 statsmodels==0.10.2
 shap==0.36.0
 matplotlib==3.2.2
+seaborn==0.10.1
 sklearn==0.22.2.post1
 catboost==0.24.1
 xgboost==0.90
