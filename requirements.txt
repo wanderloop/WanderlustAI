@@ -6,7 +6,6 @@ shap==0.36.0
 matplotlib==3.2.2
 sklearn==0.22.2.post1
 catboost==0.24.1
-xgboost==0.90
 opencv-python==4.1.2.30
 plotly==4.4.1
 researchpy==0.2.3
