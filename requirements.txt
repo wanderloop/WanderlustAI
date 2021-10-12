@@ -4,7 +4,7 @@ scipy==1.4.1
 matplotlib==3.2.2
 sklearn==0.22.2.post1
 RapidML==1.0.2
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 plotly==4.4.1
 researchpy==0.2.3
 regex==2019.12.20
